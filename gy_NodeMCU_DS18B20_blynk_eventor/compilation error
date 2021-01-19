@@ -1,0 +1,46 @@
+Arduino:1.8.13 (Windows 10), Tarjeta:"Generic ESP8266 Module, 80 MHz, Flash, Legacy (new can return nullptr), All SSL ciphers (most compatible), dtr (aka nodemcu), 26 MHz, 40MHz, DOUT (compatible), 1MB (FS:64KB OTA:~470KB), 2, nonos-sdk 2.2.1+100 (190703), v2 Lower Memory, Disabled, None, Only Sketch, 115200"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blynk_ESP8266_DS18B20:10:17: error: 'D3' was not declared in this scope
+
+ OneWire oneWire(D3); // digital D2 pin
+
+                 ^
+
+Se encontraron varias bibliotecas para "BlynkSimpleEsp8266.h"
+
+Usado: C:\Users\Juan\Documents\Arduino\libraries\Blynk
+
+ No usado: C:\Users\Juan\Documents\Arduino\libraries\blynk-library-master
+
+exit status 1
+
+'D3' was not declared in this scope
+
+
+
+Este informe podría contener más información con
+"Mostrar salida detallada durante la compilación"
+opción habilitada en Archivo -> Preferencias.
+
+
+can you help me? thanks
